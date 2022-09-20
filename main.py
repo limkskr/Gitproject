@@ -8,6 +8,10 @@ if __name__ == '__main__':
     pn.is_prime_number(31)
     pn.is_prime_number(45)
     pn.is_prime_number(97)
+<<<<<<< HEAD
 123123
 123123
 332
+=======
+123
+>>>>>>> 61dd64a35d5b2e0fa1b319ab375e2d9db12acb7d
